@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Delay Prediction</title>
+    <style>
+        /* Overall page styling */
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ff7e5f, #feb47b); /* Beautiful gradient background */
+            color: white;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        /* Centering the content */
+        .container {
+            background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for contrast */
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            width: 400px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
+
+        label {
+            font-size: 1.1em;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px; /* Added spacing between fields */
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            background-color: #f7f7f7;
+            font-size: 1em;
+        }
+
+        button {
+            background-color: #4CAF50; /* Green background */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .result {
+            margin-top: 20px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Flight Delay Prediction</h1>
+        <form action="/predict" method="POST">
+            <!-- Aircraft Type -->
+            <label for="aircraft_type">Aircraft Type</label>
+            <input type="text" id="aircraft_type" name="aircraft_type" required>
+
+            <!-- Origin Airport -->
+            <label for="origin_airport">Origin Airport</label>
+            <input type="text" id="origin_airport" name="origin_airport" required>
+
+            <!-- Destination Airport -->
+            <label for="destination_airport">Destination Airport</label>
+            <input type="text" id="destination_airport" name="destination_airport" required>
+
+            <!-- Departure Weekday -->
+            <label for="departure_weekday">Departure Weekday</label>
+            <select id="departure_weekday" name="departure_weekday" required>
+                <option value="Monday">Monday</option>
+                <option value="Tuesday">Tuesday</option>
+                <option value="Wednesday">Wednesday</option>
+                <option value="Thursday">Thursday</option>
+                <option value="Friday">Friday</option>
+                <option value="Saturday">Saturday</option>
+                <option value="Sunday">Sunday</option>
+            </select>
+
+            <!-- Departure Time -->
+            <label for="departure_time">Departure Time (HH:MM)</label>
+            <input type="text" id="departure_time" name="departure_time" required>
+
+            <!-- Airline -->
+            <label for="airline">Airline</label>
+            <input type="text" id="airline" name="airline" required>
+
+            <!-- Submit Button -->
+            <button type="submit">Predict</button>
+        </form>
+
+        
+            <div class="result"></div>
+        
+    </div>
+</body>
+</html>
