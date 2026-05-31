@@ -1,0 +1,101 @@
+Aircraft Type,Origin Airport,Destination Airport,Departure Weekday,Departure Time,Arrival Time,Airline
+Boeing 777,SFO,JFK,Tuesday,17:38,20:41,United
+Airbus A320,BOS,MIA,Thursday,16:49,10:26,Southwest
+Boeing 737,LAX,PHX,Thursday,4:23,6:57,Delta
+Airbus A350,BOS,ORD,Sunday,23:03,3:22,Delta
+Boeing 777,PHX,MIA,Wednesday,8:36,16:47,Delta
+Airbus A350,BOS,DFW,Sunday,13:29,4:02,United
+Boeing 777,SFO,DFW,Thursday,22:53,6:50,Delta
+Embraer 175,BOS,MIA,Tuesday,1:17,16:47,United
+Boeing 737,JFK,BOS,Saturday,4:11,8:37,American Airlines
+Airbus A350,PHX,PHX,Sunday,23:38,3:28,Delta
+Airbus A320,LAX,SEA,Thursday,9:42,2:35,Southwest
+Airbus A350,ATL,DFW,Friday,22:21,10:02,American Airlines
+Boeing 737,LAX,ATL,Sunday,19:29,9:50,United
+Boeing 777,ATL,DFW,Sunday,16:35,18:59,American Airlines
+Airbus A320,ORD,ORD,Monday,11:59,12:45,Southwest
+Airbus A320,MIA,LAX,Sunday,12:48,23:08,United
+Boeing 777,BOS,MIA,Friday,4:46,4:53,Southwest
+Boeing 777,SEA,LAX,Monday,6:00,9:55,Delta
+Embraer 175,ORD,ORD,Monday,18:49,22:42,American Airlines
+Airbus A350,ORD,MIA,Friday,5:03,16:18,United
+Airbus A350,BOS,ATL,Tuesday,13:15,22:31,American Airlines
+Airbus A350,SEA,ORD,Tuesday,8:54,23:51,Southwest
+Airbus A350,ORD,ORD,Saturday,19:05,3:36,Delta
+Embraer 175,DFW,JFK,Thursday,18:23,20:06,JetBlue
+Boeing 737,PHX,ORD,Thursday,8:26,18:09,JetBlue
+Airbus A320,ORD,ORD,Monday,8:29,10:32,JetBlue
+Airbus A350,JFK,ATL,Wednesday,14:43,8:32,Delta
+Boeing 737,PHX,ATL,Tuesday,23:58,3:18,Delta
+Airbus A320,LAX,PHX,Thursday,23:14,4:28,American Airlines
+Boeing 777,PHX,ATL,Thursday,15:42,1:52,Delta
+Airbus A320,DFW,MIA,Sunday,22:19,2:29,Delta
+Airbus A320,ORD,ATL,Saturday,3:24,3:45,JetBlue
+Boeing 737,BOS,ORD,Tuesday,18:32,14:07,Southwest
+Boeing 777,PHX,BOS,Monday,14:02,10:16,Delta
+Embraer 175,PHX,ATL,Thursday,18:37,2:11,American Airlines
+Embraer 175,ATL,LAX,Sunday,23:53,2:16,Southwest
+Airbus A350,BOS,DFW,Saturday,11:19,12:26,Southwest
+Airbus A320,SFO,ATL,Saturday,8:44,6:04,Delta
+Boeing 777,ORD,ATL,Friday,1:20,7:29,Southwest
+Boeing 737,ATL,PHX,Wednesday,19:31,18:11,Delta
+Airbus A350,DFW,SFO,Tuesday,2:19,22:11,Southwest
+Airbus A350,ORD,ORD,Saturday,1:24,4:07,Southwest
+Embraer 175,ATL,BOS,Tuesday,14:35,6:33,Southwest
+Embraer 175,DFW,ATL,Tuesday,18:00,11:08,JetBlue
+Boeing 737,LAX,SEA,Thursday,7:48,20:44,United
+Boeing 737,SEA,MIA,Wednesday,21:47,22:38,Delta
+Embraer 175,DFW,PHX,Thursday,18:33,17:21,JetBlue
+Airbus A320,PHX,SEA,Saturday,20:48,21:53,American Airlines
+Airbus A350,BOS,LAX,Wednesday,18:44,16:43,American Airlines
+Embraer 175,PHX,PHX,Friday,11:26,7:34,JetBlue
+Airbus A320,PHX,DFW,Thursday,16:33,12:51,American Airlines
+Embraer 175,LAX,PHX,Thursday,7:12,12:56,JetBlue
+Embraer 175,LAX,SEA,Saturday,9:14,23:34,American Airlines
+Airbus A320,MIA,SFO,Saturday,22:08,13:14,JetBlue
+Airbus A320,ORD,JFK,Wednesday,19:52,19:59,United
+Airbus A320,JFK,LAX,Sunday,3:33,22:35,United
+Boeing 737,ATL,JFK,Friday,4:34,12:04,Southwest
+Airbus A350,ORD,JFK,Saturday,2:48,12:46,United
+Boeing 737,JFK,LAX,Saturday,2:18,15:25,Southwest
+Boeing 777,ORD,BOS,Saturday,19:44,16:21,Southwest
+Embraer 175,LAX,JFK,Saturday,10:11,7:39,JetBlue
+Airbus A320,SEA,JFK,Saturday,11:37,3:17,Delta
+Embraer 175,BOS,MIA,Monday,7:49,11:45,JetBlue
+Airbus A350,SFO,JFK,Monday,7:54,17:56,United
+Airbus A320,PHX,ORD,Tuesday,8:28,13:48,JetBlue
+Embraer 175,ATL,DFW,Friday,7:11,13:34,United
+Boeing 777,MIA,DFW,Saturday,11:58,1:01,American Airlines
+Embraer 175,ATL,BOS,Wednesday,5:05,14:56,Delta
+Airbus A320,MIA,ORD,Tuesday,12:39,10:19,Southwest
+Embraer 175,SFO,SFO,Sunday,14:31,12:40,Delta
+Airbus A350,SFO,MIA,Saturday,20:54,12:07,JetBlue
+Airbus A320,MIA,ATL,Thursday,4:44,6:47,American Airlines
+Airbus A350,SFO,SEA,Monday,5:24,5:27,United
+Airbus A350,MIA,JFK,Friday,2:24,2:00,American Airlines
+Boeing 737,PHX,ATL,Wednesday,7:53,13:52,American Airlines
+Embraer 175,DFW,MIA,Wednesday,22:33,18:31,Southwest
+Airbus A320,LAX,JFK,Wednesday,6:49,12:16,JetBlue
+Boeing 737,MIA,PHX,Sunday,18:37,21:26,United
+Boeing 777,SFO,ATL,Wednesday,12:33,22:34,Delta
+Boeing 777,SFO,LAX,Monday,23:34,2:33,Delta
+Boeing 777,ORD,SFO,Tuesday,20:03,22:17,JetBlue
+Airbus A350,MIA,SEA,Thursday,9:05,3:07,United
+Boeing 737,SFO,BOS,Thursday,14:48,8:57,Delta
+Boeing 737,BOS,MIA,Thursday,4:32,3:43,United
+Boeing 777,BOS,SEA,Sunday,22:02,18:54,Delta
+Airbus A320,JFK,PHX,Wednesday,4:50,7:58,JetBlue
+Airbus A320,LAX,DFW,Thursday,19:33,11:38,JetBlue
+Airbus A350,PHX,PHX,Sunday,4:01,18:01,American Airlines
+Airbus A350,ATL,MIA,Tuesday,10:21,3:04,JetBlue
+Embraer 175,BOS,BOS,Sunday,4:41,7:24,United
+Boeing 737,BOS,SFO,Saturday,6:05,20:27,JetBlue
+Airbus A320,JFK,ATL,Wednesday,2:34,20:04,American Airlines
+Boeing 777,PHX,BOS,Sunday,3:30,10:05,United
+Boeing 737,ORD,JFK,Wednesday,2:55,7:56,United
+Boeing 777,BOS,ORD,Saturday,17:25,22:43,Southwest
+Boeing 777,DFW,JFK,Tuesday,4:00,1:23,Southwest
+Embraer 175,DFW,ORD,Thursday,23:04,15:01,Delta
+Airbus A320,JFK,DFW,Thursday,4:21,1:27,United
+Boeing 737,LAX,ORD,Thursday,3:05,1:45,JetBlue
+Boeing 737,DFW,JFK,Tuesday,7:11,23:51,Delta
